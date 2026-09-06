@@ -1,2 +1,2 @@
 # kata-solutions-python
-All my codewars kata solutions in python language
+Hello this is all my codewars kata solutions in python language
