@@ -8,3 +8,4 @@ Hello this is all my codewars kata solutions in python language
 | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | 8-kyu | python | [Solution](codewars/python/8-kyu/find-the-parity-outlier.py) | 9/9/2026 |
 | [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | 8-kyu | python | [Solution](codewars/python/8-kyu/counting-duplicates.py) | 9/10/2026 |
 | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | 7-kyu | python | [Solution](codewars/python/7-kyu/tribonacci-sequence.py) | 9/12/2026 |
+| [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | 7-kyu | python | [Solution](codewars/python/7-kyu/printer-errors.py) | 9/12/2026 |
