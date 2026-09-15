@@ -11,3 +11,4 @@ Hello this is all my codewars kata solutions in python language
 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | 7-kyu | python | [Solution](codewars/python/7-kyu/printer-errors.py) | 9/12/2026 |
 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | 7-kyu | python | [Solution](codewars/python/7-kyu/split-strings.py) | 9/13/2026 |
 | [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) | 7-kyu | python | [Solution](codewars/python/7-kyu/pete-the-baker.py) | 9/14/2026 |
+| [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | 7-kyu | python | [Solution](codewars/python/7-kyu/rot13.py) | 9/15/2026 |
